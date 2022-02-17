@@ -3,3 +3,5 @@ hier steht etwas damit es nicht leer ist.
 Jetzt steht hier noch mehr.
 
 Un jetzt ändere ich etwas in github
+
+Jetzt schreibt Frederike etwas in dieses File. Juhu!
